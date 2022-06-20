@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bitsqueezr"]
+	path = bitsqueezr
+	url = https://github.com/dbaston/bitsqueezr
+	shallow = true
+	registered = true
